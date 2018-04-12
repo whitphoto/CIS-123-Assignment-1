@@ -1,0 +1,27 @@
+
+                   SALES REPORT
+
+CLERK NUMBER         NAME         MONTH   COMMISSION
+
+  444444444    JANE PHELPS          03    $16,814.00
+  666666666    GEORGE STREET        11    $48,021.00
+  222222222    LORI THOMAS          01    $48,000.00
+  999999999    KAREN SPEEL          07    $19,388.50
+  333333333    MARY SELLER          09    $76,065.15
+  555555555    TOM CAP              06    $27,009.00
+  888888888    MIKE SMITH           04    $11,760.00
+
+
+              COMMISSION TABLE
+
+CLERK NUMBER         NAME         PERCENTAGE
+  666666666    GEORGE STREET         20
+  444444444    JANE PHELPS           14
+  111111111    JOHN GOOD             20
+  999999999    KAREN SPEEL           17
+  000000000    LISA MARKS            25
+  222222222    LORI THOMAS           16
+  333333333    MARY SELLER           15
+  888888888    MIKE SMITH            12
+  777777777    PAT JONES             21
+  555555555    TOM CAP               18
